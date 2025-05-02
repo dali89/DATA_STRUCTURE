@@ -56,7 +56,7 @@ int main()
 	printf("\t\t<...............LINKED LIST...............>\n");
 	printf("\t\t<........BASIC OPERATIONS OF LINKED LIST.......>\n");
 	do{
-		printf("\n1 for insertion at beginning");
+		printf("\n1 for deletion at beginning");
 		printf("\n2 for traversal");	
 	
 	    printf("\n3 for exit"); 

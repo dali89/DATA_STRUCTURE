@@ -89,9 +89,9 @@ int main()
 	printf("\t\t<........BASIC OPERATIONS OF LINKED LIST.......>\n");
 	do{
 		printf("\n1 for insertion at beginning");
-		printf("\n2 for traversal");	
-	
-	    printf("\n3 for exit"); 
+		printf("\n2 for Linear Search");	
+        printf("\n3 for traversal"); 
+	    printf("\n4 for exit"); 
 	    printf("\n\nenter your choice");
 	    scanf("%d",&ch);
 	    
